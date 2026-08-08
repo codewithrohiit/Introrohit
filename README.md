@@ -2,7 +2,7 @@
 
 Welcome to the repository of my personal portfolio website! This website is designed to showcase my skills, projects, background, and experience to potential employers, recruiters, and clients.
 
-🔗 **Live Demo:**[https://github.com/codewithrohiit/Introrohit.git]
+🔗 **Live Demo:**[https://codewithrohiit.github.io/Introrohit/]
 
 ---
 
